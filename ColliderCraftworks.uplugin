@@ -1,0 +1,31 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"IsExperimentalVersion": false,
+	"VersionName": "0.2",
+	"EngineVersion": "5.0.0",
+	"FriendlyName": "Collider Craftworks Plugin",
+	"Description": "Collider Craftworks Plugin",
+	"Category": "Editor",
+	"CreatedBy": "ColliderCraft Games Company Inc.",
+	"CreatedByURL": "https://www.collidercraftworks.com/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "themoshpitsupport@collidercraftworks.com",
+	"EnabledByDefault": false,
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ColliderCraftworks",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "ColliderCraftworksEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}

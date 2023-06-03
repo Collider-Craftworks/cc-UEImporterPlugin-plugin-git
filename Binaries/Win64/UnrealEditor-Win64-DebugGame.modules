@@ -1,0 +1,8 @@
+{
+	"BuildId": "19505902",
+	"Modules": 
+	{
+		"ColliderCraftworks": "UnrealEditor-ColliderCraftworks-Win64-DebugGame.dll",
+		"ColliderCraftworksEditor": "UnrealEditor-ColliderCraftworksEditor-Win64-DebugGame.dll"
+	}
+}

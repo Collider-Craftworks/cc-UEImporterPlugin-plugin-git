@@ -1,0 +1,8 @@
+{
+	"BuildId": "19505902",
+	"Modules": 
+	{
+		"ColliderCraftworks": "UnrealEditor-ColliderCraftworks.dll",
+		"ColliderCraftworksEditor": "UnrealEditor-ColliderCraftworksEditor.dll"
+	}
+}
